@@ -1,0 +1,4 @@
+Running the file `update-image.bat` starts a docker compose with a html using ngnix.
+Then you can use the file `create-certbot-certificates.bat` which creates certificates for the nginx server.
+
+Afterwards, the server should start correctly, letting you host static html files.
